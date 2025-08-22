@@ -1,1 +1,3 @@
-Olá esse projeto ensina você a usar o Git
+Olá esse projeto ensina você a usar o Git.
+Alteração no arquivo.
+Seguir o passo a passo...
